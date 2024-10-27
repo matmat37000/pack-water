@@ -716,11 +716,6 @@ hash = "289d92ec21dac6b0149da4b2883a0ef7d1f07b8e09a45170276ebed198774c39"
 metafile = true
 
 [[files]]
-file = "mods/rrls.pw.toml"
-hash = "83164a6af3923e28cadf9d404f059bf74aa4f0842fc1ca0f6e7cf1e686044875"
-metafile = true
-
-[[files]]
 file = "mods/scout.pw.toml"
 hash = "6fa55fab0c5c22dc7092891f2128d3a0e718d78ad53fa8082af3cfc6e850526a"
 metafile = true
