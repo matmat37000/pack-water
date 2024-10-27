@@ -727,7 +727,7 @@ metafile = true
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
-hash = "3f46e3aeb46331bd999c099da6b07a5d161ccbd791b6f8317feaa3a8a4275d45"
+hash = "315ec252f3381d2e22412b5912546d59e556196835924757216b4aa23a5f560a"
 metafile = true
 
 [[files]]
