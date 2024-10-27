@@ -6,6 +6,11 @@ hash = "4d0eb25d1b5ba1f44cc9c568f8ba8ee88003b371a22ce397994a4e6cbf57ba32"
 metafile = true
 
 [[files]]
+file = "mods/alcohol.pw.toml"
+hash = "0e73e666018aa1b1ea132f47befde16f6e521e083b18826e19f31524621ba1c0"
+metafile = true
+
+[[files]]
 file = "mods/almanac-lib.pw.toml"
 hash = "6317bd1e6013059a52574d7002e744cd1d662ba345d019d75e37d384fd6060b0"
 metafile = true
@@ -298,6 +303,11 @@ metafile = true
 [[files]]
 file = "mods/icterine.pw.toml"
 hash = "74bc91c604bab9438fbfc7ca08f745ed3cd65aefefb30fc4a78de0f931314528"
+metafile = true
+
+[[files]]
+file = "mods/ilikecinnamons-tipsy.pw.toml"
+hash = "f41fe8b01e68f68427eb38f3831c1509e2ce0c12879e7ceb72e437f005bff945"
 metafile = true
 
 [[files]]
@@ -818,6 +828,11 @@ metafile = true
 [[files]]
 file = "mods/valkyrien-pirates.pw.toml"
 hash = "61e66b6e9e54f40e7811ed858d6a2e063664b83296aea2449bb2b90d858e8090"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-relogs.pw.toml"
+hash = "6e85d68220f2fb30dee6145afc169b950f67d6be7e0eee3c70b9fff9b0f5ba66"
 metafile = true
 
 [[files]]
