@@ -1,0 +1,7 @@
+*.zip
+*.mrpack
+.git/**
+.gitattributes
+.gitignore
+*.jar
+server/**
