@@ -46,6 +46,11 @@ hash = "bcea43f1396949332eb41ee3807dce173b9628f457d6d55594d993426c60b0f0"
 metafile = true
 
 [[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "1968cd21c21d153156b039bce452f29cc239200f44c4b0655489eea65c781e73"
+metafile = true
+
+[[files]]
 file = "mods/awesome-dungeon-edition-ocean-fabric.pw.toml"
 hash = "b2aeac61ff685559c5c5a055b5369b28c1d2e005ef081331a6a5a66b8c4adeb3"
 metafile = true
@@ -101,6 +106,16 @@ hash = "ec2c437fe50a3f8ea6077215974ba9f769cb94eb29432156cbbe43137a74013f"
 metafile = true
 
 [[files]]
+file = "mods/chais-inventory-sorter.pw.toml"
+hash = "90830162252e164ff814cd303ed131ee0aad4bf1980346f6a1dbc46fd6820aca"
+metafile = true
+
+[[files]]
+file = "mods/chest-tracker.pw.toml"
+hash = "cfd9c99e2f63ea48665613ffbaf1c4703df5cee27282ff45b44594e5320bd9da"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "b1581bbfae9d16690f4022536da6567f000130c4ea5e04d92177c1bc61fea709"
 metafile = true
@@ -128,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "14a5af2b7faa6df33e76e7b704eaa398d78a6026c5c996bc5ea13ae02e5d6b74"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
 metafile = true
 
 [[files]]
@@ -431,6 +451,11 @@ hash = "57446e406e6fe35f8fcac00cd674de53e51a48d7d3831a421e99c25e593d6238"
 metafile = true
 
 [[files]]
+file = "mods/mc-server-description.pw.toml"
+hash = "d132f1cf0d6c61f25796755e41009b84930442ba8e87b0c225c27c0c45014797"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "ede2f61d6b592f44294fa8790c2f050729c487aa86aba09034f2ef30d45e0e93"
 metafile = true
@@ -711,6 +736,11 @@ hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
 metafile = true
 
 [[files]]
+file = "mods/replanting-crops.pw.toml"
+hash = "0b40e13e395a19f201e9cb36bfbd9727a33b3c9f91f6769b909a522cbf42eb0d"
+metafile = true
+
+[[files]]
 file = "mods/revamped-shipwrecks.pw.toml"
 hash = "289d92ec21dac6b0149da4b2883a0ef7d1f07b8e09a45170276ebed198774c39"
 metafile = true
@@ -718,6 +748,11 @@ metafile = true
 [[files]]
 file = "mods/scout.pw.toml"
 hash = "6fa55fab0c5c22dc7092891f2128d3a0e718d78ad53fa8082af3cfc6e850526a"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
 metafile = true
 
 [[files]]
@@ -776,6 +811,11 @@ hash = "2c77d7a9c132f5e85c059331d0a5ea2435e1a6d7007e031538f08a927b2c9bad"
 metafile = true
 
 [[files]]
+file = "mods/spyglass-astronomy.pw.toml"
+hash = "694dc5f10b7cd44a025f10b83dd847efe08b62c17e8e02d182d2375bfe11c0d6"
+metafile = true
+
+[[files]]
 file = "mods/stackdeobf.pw.toml"
 hash = "b97b297fab12e137c58874ae776402cfa29374c8ff50c9f18ef27442b65336e6"
 metafile = true
@@ -788,6 +828,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "8c8ff7793de210cbe8f481341cd4c9c97d5b26117bd8ad368c8e5cfb80c1f082"
+metafile = true
+
+[[files]]
+file = "mods/sushi-bar.pw.toml"
+hash = "6bfb09a5bf731cd8d347b8e77b0379c254b2e2dd2763c8051b6bfe122a22b7fb"
 metafile = true
 
 [[files]]
@@ -846,8 +891,18 @@ hash = "bc7e0f9a0c6c0a07b3d9b5d43ca3891356a841ba71b25e148d237c7f7342a51d"
 metafile = true
 
 [[files]]
+file = "mods/villager-names-serilum.pw.toml"
+hash = "f3b62c8bd55a5751bb5d885598eadefb6ac6ee629384f41ef08692f55bc23142"
+metafile = true
+
+[[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "c28f21e5e16aa98001e982453e1b2b8f99302497c645bca4a02a708cfc16577d"
+metafile = true
+
+[[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "021d42f729c7fba0ddca97369323325002ecb8437e2948d82478e682bb340e58"
 metafile = true
 
 [[files]]
