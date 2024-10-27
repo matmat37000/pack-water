@@ -71,6 +71,11 @@ hash = "6d7c5793f88c52421dc11f48b3bf12400e7a451b9297e80fe33b776cc2af2c1d"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "f96656076717dcadf38073af32ce253b2cfd0f5ff1785c03450e146f06213ee3"
+metafile = true
+
+[[files]]
 file = "mods/blur-plus.pw.toml"
 hash = "04ddfc50d957ad8cd71306a19b98b3b64d5235bb1c6a694592087ccb1f0c0dfc"
 metafile = true
@@ -708,6 +713,11 @@ metafile = true
 [[files]]
 file = "mods/revamped-shipwrecks.pw.toml"
 hash = "289d92ec21dac6b0149da4b2883a0ef7d1f07b8e09a45170276ebed198774c39"
+metafile = true
+
+[[files]]
+file = "mods/rrls.pw.toml"
+hash = "83164a6af3923e28cadf9d404f059bf74aa4f0842fc1ca0f6e7cf1e686044875"
 metafile = true
 
 [[files]]
