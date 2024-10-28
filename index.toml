@@ -581,11 +581,6 @@ hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
 metafile = true
 
 [[files]]
-file = "mods/physics-mod-pro-v171b.pw.toml"
-hash = "306169481cc96131f00befc140145ad25f0fb47622f08d4015fd58dcc5fe0641"
-metafile = true
-
-[[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "71ba549ed46b47d6a57556f746ea45c974ea38a93e1a85277c200a674090bec0"
 metafile = true
