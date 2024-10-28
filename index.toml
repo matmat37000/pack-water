@@ -516,6 +516,11 @@ hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
 metafile = true
 
 [[files]]
+file = "mods/multiplayer-server-pause.pw.toml"
+hash = "a3d0f986a88c671232c6d9ea7929429d396fecea444986c9c81df82cc58910e8"
+metafile = true
+
+[[files]]
 file = "mods/naturalist.pw.toml"
 hash = "cdc3b40078ef395c5b4863a74dd58f6c3cd1a4f5eeea7e3782318ef28d99438c"
 metafile = true
@@ -573,6 +578,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
+metafile = true
+
+[[files]]
+file = "mods/physics-mod-pro-v171b.pw.toml"
+hash = "306169481cc96131f00befc140145ad25f0fb47622f08d4015fd58dcc5fe0641"
 metafile = true
 
 [[files]]
