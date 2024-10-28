@@ -476,6 +476,11 @@ hash = "57446e406e6fe35f8fcac00cd674de53e51a48d7d3831a421e99c25e593d6238"
 metafile = true
 
 [[files]]
+file = "mods/mc-249136-fix.pw.toml"
+hash = "034e3cbe6739968adf7bc417f7746bb798b8ceda894c07a8c43a8c7c68412356"
+metafile = true
+
+[[files]]
 file = "mods/mc-server-description.pw.toml"
 hash = "d132f1cf0d6c61f25796755e41009b84930442ba8e87b0c225c27c0c45014797"
 metafile = true
@@ -866,6 +871,11 @@ hash = "b97b297fab12e137c58874ae776402cfa29374c8ff50c9f18ef27442b65336e6"
 metafile = true
 
 [[files]]
+file = "mods/starlight.pw.toml"
+hash = "98553c2d49ef3a888954f24b7c49fe3442c01fd4fc1f1ed52c5898ed29d29d3b"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries-squared.pw.toml"
 hash = "c2efb76c4dab78ce61de7c27bd4c9ecaa000d338334945a041c506263040ee99"
 metafile = true
@@ -938,6 +948,11 @@ metafile = true
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "bc7e0f9a0c6c0a07b3d9b5d43ca3891356a841ba71b25e148d237c7f7342a51d"
+metafile = true
+
+[[files]]
+file = "mods/view-distance-fix.pw.toml"
+hash = "31c2a0e56c320f751bf53a44d3f1bcdb4e3ab268b8d26543bc7ec2c638e52487"
 metafile = true
 
 [[files]]
