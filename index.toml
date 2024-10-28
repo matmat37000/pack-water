@@ -16,6 +16,11 @@ hash = "6317bd1e6013059a52574d7002e744cd1d662ba345d019d75e37d384fd6060b0"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "006b24892ead1f3b1319727bcd41c32db322e3eb61956825387c3788bfd9e168"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "cebc05f135c16bbd7bdcac8eabef94019790930e7bfa654de848be05af14e4b2"
 metafile = true
@@ -98,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/brewery.pw.toml"
 hash = "fbb5cf723de382ff54a8d3428eddd76fa2ae3a3fd35904dbfa81e79ab34294f5"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "066bcf27ce64eeaeb8e595f3768743c02e3a5fa2f7338357a523b8a72f0814df"
 metafile = true
 
 [[files]]
@@ -381,6 +391,11 @@ hash = "9063bac3fdf585a43d318e3f9773475a28ecb8fe80bc7689cc480851eef97420"
 metafile = true
 
 [[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "37421d14755957856ddafed04020b2b23f902f6f4c410fb5bdfc956959f99fba"
+metafile = true
+
+[[files]]
 file = "mods/lexiconfig.pw.toml"
 hash = "aa1bfeaa1084854ef81994d57bd676aa320106e54c1c71e91bee448416a2c3c7"
 metafile = true
@@ -398,6 +413,11 @@ metafile = true
 [[files]]
 file = "mods/lmd.pw.toml"
 hash = "ad1c4be47ec1445bd4061ca8f5e9dbe291bfd4b8dc4207ecfb65e8bd83bdd29f"
+metafile = true
+
+[[files]]
+file = "mods/lmft.pw.toml"
+hash = "c036fba25fdb9a9206b3cdf0cc94d3f1877c63fbf47ce7199bd09358c6289dea"
 metafile = true
 
 [[files]]
@@ -493,11 +513,6 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
-metafile = true
-
-[[files]]
-file = "mods/multiplayer-server-pause.pw.toml"
-hash = "a3d0f986a88c671232c6d9ea7929429d396fecea444986c9c81df82cc58910e8"
 metafile = true
 
 [[files]]
@@ -766,6 +781,11 @@ hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
 metafile = true
 
 [[files]]
+file = "mods/servercore.pw.toml"
+hash = "e7bd6b90b0c1a476e06057db77a606054b70e2bb256c5ea9569c194388bf9525"
+metafile = true
+
+[[files]]
 file = "mods/simple-cannonballs.pw.toml"
 hash = "ab3983e08053032990b4f810c6f7f9c966b433ba50ad33a8ca8f328f9dd59d8d"
 metafile = true
@@ -821,6 +841,11 @@ hash = "2c77d7a9c132f5e85c059331d0a5ea2435e1a6d7007e031538f08a927b2c9bad"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "f010bbe486733738e92241d10f403e28a8feeb40b45ec3af3b2270523f955216"
+metafile = true
+
+[[files]]
 file = "mods/spyglass-astronomy.pw.toml"
 hash = "694dc5f10b7cd44a025f10b83dd847efe08b62c17e8e02d182d2375bfe11c0d6"
 metafile = true
@@ -858,6 +883,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
+metafile = true
+
+[[files]]
+file = "mods/tick-stasis.pw.toml"
+hash = "08f7763d759fb7778ae0560e8adf66e4721fc6d9e46802f51ecced02716bdef3"
 metafile = true
 
 [[files]]
@@ -908,6 +938,11 @@ metafile = true
 [[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "c28f21e5e16aa98001e982453e1b2b8f99302497c645bca4a02a708cfc16577d"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "74906aa6f2f33b0391252d50b1d446d2ad2df4d6ca1026b941e90cc579a0692b"
 metafile = true
 
 [[files]]
