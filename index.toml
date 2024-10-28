@@ -81,11 +81,6 @@ hash = "6d7c5793f88c52421dc11f48b3bf12400e7a451b9297e80fe33b776cc2af2c1d"
 metafile = true
 
 [[files]]
-file = "mods/bluemap.pw.toml"
-hash = "f96656076717dcadf38073af32ce253b2cfd0f5ff1785c03450e146f06213ee3"
-metafile = true
-
-[[files]]
 file = "mods/blur-plus.pw.toml"
 hash = "04ddfc50d957ad8cd71306a19b98b3b64d5235bb1c6a694592087ccb1f0c0dfc"
 metafile = true
