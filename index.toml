@@ -161,6 +161,11 @@ hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
 metafile = true
 
 [[files]]
+file = "mods/craterlib.pw.toml"
+hash = "b8cafa8b626f483412ec8220638883911e0979e39f1c482e9380d2c53c878e33"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "4e620f3c78b5915c29647a36aff779635a5161b633c6129cb9e67ad9cfe34454"
 metafile = true
@@ -793,6 +798,11 @@ metafile = true
 [[files]]
 file = "mods/simple-cannonballs.pw.toml"
 hash = "ab3983e08053032990b4f810c6f7f9c966b433ba50ad33a8ca8f328f9dd59d8d"
+metafile = true
+
+[[files]]
+file = "mods/simple-discord-rpc.pw.toml"
+hash = "3c398cf79509a5aa51bb2c4ba73d2777300fd2b4dd750246be963d5e9342209a"
 metafile = true
 
 [[files]]
