@@ -371,6 +371,11 @@ hash = "373ec22dd58dde230d1790429ab57eabe5cde34bdf4ee8121ffc1d5e9cd1a2f2"
 metafile = true
 
 [[files]]
+file = "mods/invisible-armor-items.pw.toml"
+hash = "36c58dd404b41c458fc6400aa001d1124b855f8277fb4cab34973baf975d9b15"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "956298b1bbab6d8bfb5074b169d8d24d04d688182edf8af885bbefc6cc1d9c27"
 metafile = true
@@ -523,11 +528,6 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
-metafile = true
-
-[[files]]
-file = "mods/multiplayer-server-pause.pw.toml"
-hash = "a3d0f986a88c671232c6d9ea7929429d396fecea444986c9c81df82cc58910e8"
 metafile = true
 
 [[files]]
@@ -953,6 +953,16 @@ metafile = true
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "bc7e0f9a0c6c0a07b3d9b5d43ca3891356a841ba71b25e148d237c7f7342a51d"
+metafile = true
+
+[[files]]
+file = "mods/vanity-core.pw.toml"
+hash = "6b48b48ffc309cd08f59d0051642a7371658b9674a82cf0ee7298eb1b9d6d243"
+metafile = true
+
+[[files]]
+file = "mods/vanity-invisible-armory.pw.toml"
+hash = "69536297aabd8c4ce40cdfc7212d4cbd33eeea5e37cb12ee0ea6be3d7b925fd2"
 metafile = true
 
 [[files]]
