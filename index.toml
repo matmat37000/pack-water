@@ -796,6 +796,11 @@ hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
 metafile = true
 
 [[files]]
+file = "mods/show-me-what-you-got.pw.toml"
+hash = "3f4ebc99e5cfdfebdcaab0eb420af0cfe8952e93566ede25cbea6463119ba0f9"
+metafile = true
+
+[[files]]
 file = "mods/simple-cannonballs.pw.toml"
 hash = "ab3983e08053032990b4f810c6f7f9c966b433ba50ad33a8ca8f328f9dd59d8d"
 metafile = true
