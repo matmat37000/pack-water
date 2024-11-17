@@ -796,11 +796,6 @@ hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
 metafile = true
 
 [[files]]
-file = "mods/servercore.pw.toml"
-hash = "e7bd6b90b0c1a476e06057db77a606054b70e2bb256c5ea9569c194388bf9525"
-metafile = true
-
-[[files]]
 file = "mods/simple-cannonballs.pw.toml"
 hash = "ab3983e08053032990b4f810c6f7f9c966b433ba50ad33a8ca8f328f9dd59d8d"
 metafile = true
@@ -908,11 +903,6 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
-metafile = true
-
-[[files]]
-file = "mods/tick-stasis.pw.toml"
-hash = "08f7763d759fb7778ae0560e8adf66e4721fc6d9e46802f51ecced02716bdef3"
 metafile = true
 
 [[files]]
